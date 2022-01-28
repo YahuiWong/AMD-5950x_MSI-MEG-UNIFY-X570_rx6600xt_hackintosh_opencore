@@ -5,6 +5,27 @@
 - Updated at 2022.01
 - Support `Monterey 12.1`
 
+So let`s start:
+
+## Bios Version
+
+2022-01-05
+
+7C35vAC1(Beta version)   
+
+## Bios Settings:
+
+##### Enabled:
+
+- EHCI/XHCI Hand-off
+
+- Above 4G decoding
+
+
+
+##### Disabled:
+
+- CSM
 
 
 # 
