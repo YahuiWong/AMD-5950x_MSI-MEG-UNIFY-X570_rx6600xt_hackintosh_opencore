@@ -36,7 +36,7 @@ So let`s start:
 - Wireless Card: PCI-E BCM94360CD (FV-T919)
 - Other:
   - RAM: Kingston Fury DDR4 3200 16Gx4
-  - SSD: SAMSUNG 970 EVO Plus 500GB(M.2/Nvme)
+  - SSD: SATA
 
 
 > I use PCI-E Wireless Card, so I disabled the internel WIFI Intel AX200
